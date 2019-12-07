@@ -1,7 +1,7 @@
 # Install
-npm install mysql2
-npm install rss-parser
-npm install md5
+* npm install mysql2
+* npm install rss-parser
+* npm install md5
 
 # Covers RSS
 * that is alot of rss - https://status.aws.amazon.com/
